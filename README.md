@@ -44,3 +44,5 @@ devices|ARRAY TEXT|device ids for each connected device
 ###Compatibility break
 
 ``CAPTURE DEVICE LIST`` no longer returns the description in ``$2``.
+
+The old version can be found in the ``v1`` branch.
