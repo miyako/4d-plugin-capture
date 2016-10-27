@@ -1,0 +1,1 @@
+﻿{"name":"Capture","id":20000,"commands":[{"theme":"Device","syntax":"CAPTURE DEVICE Get default:T"},{"theme":"Device","syntax":"CAPTURE DEVICE LIST(&Y)"},{"theme":"Snap","syntax":"CAPTURE Snap(&T;&P):L"}]}
