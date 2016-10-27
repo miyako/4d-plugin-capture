@@ -34,7 +34,7 @@ param|type|description
 device|TEXT|device id for the default device
 
 ```
-CAPTURE DEVICE LIST(devicesI)
+CAPTURE DEVICE LIST(devices)
 ```
 
 param|type|description
@@ -43,4 +43,4 @@ devices|ARRAY TEXT|device ids for each connected device
 
 ###Compatibility break
 
-
+``CAPTURE DEVICE LIST`` no longer returns the description in ``$2``.
