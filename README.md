@@ -41,6 +41,10 @@ param|type|description
 ------------|------|----
 devices|ARRAY TEXT|device ids for each connected device
 
+![](https://github.com/miyako/4d-plugin-capture/blob/master/m.png)
+
+![](https://github.com/miyako/4d-plugin-capture/blob/master/w.png)
+
 ###Remarks
 
 There is an intended 1.2 second delay to capture the video. This is to allow the camera to calibrate for environment lighting.
