@@ -1,0 +1,6 @@
+*** Full Backup
+Creating archive : C:\Documents and Settings\miyako\デスクトップ\Capture\Capture.4dbase\Capture[0001].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 16/10/27 16:18:19
+Ending : 16/10/27 16:18:19
+

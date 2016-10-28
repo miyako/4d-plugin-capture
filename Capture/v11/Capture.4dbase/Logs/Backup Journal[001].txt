@@ -1,0 +1,12 @@
+*** Automatic log integration
+Data file : C:\Documents and Settings\miyako\デスクトップ\Capture\v11\Capture.4dbase\Capture.4DD
+Log file : C:\Documents and Settings\miyako\デスクトップ\Capture.journal
+Starting : 2016/10/28 5:03:44
+Ending : 2016/10/28 5:03:44
+
+*** Automatic log integration
+Data file : C:\Documents and Settings\miyako\デスクトップ\Capture\v11\Capture.4dbase\Capture.4DD
+Log file : C:\Documents and Settings\miyako\デスクトップ\Capture.journal
+Starting : 2016/10/28 5:11:26
+Ending : 2016/10/28 5:11:26
+

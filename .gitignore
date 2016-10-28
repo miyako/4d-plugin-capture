@@ -2,3 +2,7 @@
 *.DS_Store
 
 *.suo
+
+*.4BK
+
+Capture/Capture.4dbase/Logs/Backup Journal[001].txt
