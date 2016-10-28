@@ -22,7 +22,7 @@ success:=CAPTURE Snap(device;photo)
 param|type|description
 ------------|------|----
 device|TEXT|device id (you may pass ``CAPTURE DEVICE Get default``)
-photo|TEXT|the captured image (TIFF on Mac) 
+photo|TEXT|the captured image (TIFF on Mac, BMP 24 bits on Windows) 
 success|INT21|1 for success
 
 ```
@@ -40,6 +40,10 @@ CAPTURE DEVICE LIST(devices)
 param|type|description
 ------------|------|----
 devices|ARRAY TEXT|device ids for each connected device
+
+###Remarks
+
+There is an intended 1.2 second delay to capture the video. This is to allow the camera to calibrate for environment lighting.
 
 ###Compatibility break
 
