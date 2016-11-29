@@ -23,7 +23,7 @@ param|type|description
 ------------|------|----
 device|TEXT|device id (you may pass ``CAPTURE DEVICE Get default``)
 photo|TEXT|the captured image (TIFF on Mac, BMP 24 bits on Windows) 
-success|INT21|1 for success
+success|INT32|1 for success
 
 ```
 device:=CAPTURE DEVICE Get default
